@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "http://localhost:3000/",
+  "start_url": "https://pwa-test-typescript.vercel.app/?vercelToolbarCode=Tbn0_5UL0TU57Qx",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
