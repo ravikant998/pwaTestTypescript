@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(1, 49, 49);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.navbarLinks {
+    display: flex;
+    color: white;
+
+}
+
+.links-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+    padding-left: 30px;
+}
+
+.links-navbar a {
+    color: white;
+    text-decoration: none
+}
+
+.auth-links {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.auth-links button {
+    margin-left: 20px;
+    margin-right: 20px;
+
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
